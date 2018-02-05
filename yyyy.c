@@ -11,4 +11,5 @@ void main()
     }
     printf("Sum = %d",sum);
     getch();
+    
 }
